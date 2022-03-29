@@ -1,0 +1,99 @@
+{
+  "dashboard": {
+    "sorting": [
+      "slider",
+      "categories",
+      "newest_product",
+      "feature_products",
+      "deal_of_the_day",
+      "Sale_Banner",
+      "blog",
+      "vendor",
+      "best_selling_product",
+      "sale_product",
+      "offer",
+      "suggested_for_you",
+      "you_may_like"
+    ],
+    "layout": "layout3",
+    "appBar": {
+      "title": "Dashboard",
+      "appBarIcon": null,
+      "appBarLayout": null
+    },
+    "sliderView": {
+      "enable": true
+    },
+    "category": {
+      "enable": true
+    },
+    "newProduct": {
+      "enable": true,
+      "title": "New Collections",
+      "viewAll": "See All"
+    },
+    "blog": {
+      "enable": false,
+      "title": "Our Blog Post",
+      "viewAll": "See All"
+    },
+    "feature": {
+      "enable": true,
+      "title": "Featured Product",
+      "viewAll": "See All"
+    },
+    "saleProduct": {
+      "enable": true,
+      "title": "Trending Product",
+      "viewAll": "See All"
+    },
+    "dealOfTheDay": {
+      "enable": true,
+      "title": "Deal Of the day",
+      "viewAll": "See All"
+    },
+    "bestSaleProduct": {
+      "enable": true,
+      "title": "Top Selling",
+      "viewAll": "See All"
+    },
+    "offerProduct": {
+      "enable": true,
+      "title": " Available Offers",
+      "viewAll": "See All"
+    },
+    "suggestionProduct": {
+      "enable": true,
+      "title": "Recommendation For You",
+      "viewAll": "See All"
+    },
+    "vendor": {
+      "enable": true,
+      "title": "Vendor",
+      "viewAll": "See All"
+    },
+    "youMayLikeProduct": {
+      "enable": true,
+      "title": "You Might Like",
+      "viewAll": "See All"
+    },
+    "saleBanner": {
+      "enable": true
+    }
+  },
+  "productdetailview": {
+    "layout": "layout3"
+  },
+  "appsetup": {
+    "appName": "Healthy Tails Animal Hospital",
+    "primaryColor": "#569f92",
+    "secondaryColor": "#2635DF",
+    "backgroundColor": "#FCFDFD",
+    "textPrimaryColor": "#212121",
+    "textSecondaryColor": "#757575",
+    "consumerKey": "ck_7f169fa5ecaa35fd1aba4fc36faa26c734c900d3",
+    "consumerSecret": "cs_e01249624f73b6c1dd91bc130fc725fe6afcce88",
+    "appUrl": "https://thepetstore.pk/wp-json/"
+
+  }
+}

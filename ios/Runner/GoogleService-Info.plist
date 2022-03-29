@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>488056675710-ll15t9fuv4a6pgc2bqmelpkc1cvjifou.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.488056675710-ll15t9fuv4a6pgc2bqmelpkc1cvjifou</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>488056675710-bidd3fjbi5k1b313ugkpa9ss5rfgd6eh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB9VMqF31t35m4mor4q0WohNXWPNGzCMzw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>488056675710</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.healthytailsanimalhospital</string>
+	<key>PROJECT_ID</key>
+	<string>healthytailsanimalhospit-c287e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>healthytailsanimalhospit-c287e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:488056675710:ios:e661b8146e8e5c896ae72f</string>
+</dict>
+</plist>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "488056675710",
+    "project_id": "healthytailsanimalhospit-c287e",
+    "storage_bucket": "healthytailsanimalhospit-c287e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488056675710:android:bf95dc527ceca3aa6ae72f",
+        "android_client_info": {
+          "package_name": "com.healthytailsanimalhospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488056675710-bidd3fjbi5k1b313ugkpa9ss5rfgd6eh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healthytailsanimalhospital",
+            "certificate_hash": "e471583fda85ed15c948524266c7675acc789233"
+          }
+        },
+        {
+          "client_id": "488056675710-uf9lahs7e2kedee1vsbk51kujpmkpo5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9-7ECm7jR0X8KeeIB4nibi_1zet_aj90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488056675710-uf9lahs7e2kedee1vsbk51kujpmkpo5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
